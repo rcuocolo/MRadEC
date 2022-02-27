@@ -11,7 +11,7 @@ Finally, from the resulting, scaled dataset the features actually employed to tr
 
 ## Citation
 
-Will update with paper details as soon as possible.
+- Mainenti PP, Stanzione A, Cuocolo R, et al (2022) MRI radiomics: A machine learning approach for the risk stratification of endometrial cancer patients. Eur J Radiol 149:110226. [https://doi.org/10.1016/j.ejrad.2022.110226](https://doi.org/10.1016/j.ejrad.2022.110226)
 
 ## License
 
